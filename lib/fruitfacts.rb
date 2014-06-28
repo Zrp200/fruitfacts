@@ -1,7 +1,6 @@
 # Produces a random fact.
 def fact
-  ["The average strawberry has around 200 seeds.",
-    "Peaches were once known as Persian apples.",
+  return ["The average strawberry has around 200 seeds.", "Peaches were once known as Persian apples.",
     "Add half a cup of lemon juice to your laundry to brighten your whites.",
     "Kiwi fruits were originally known by their Chinese name, yang tao (sunny peach).",
     "Strawberries are members of the rose family.",
