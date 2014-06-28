@@ -9,7 +9,7 @@ def fact
     "Kiwi fruits are declared as the national fruit of China.",
     "In China, peaches are a symbol of longevity & good luck.",
     "There are almost 400 varieties the inside of a banana skin on a mosquito bite to stop the itchiness.",
-    "Bananas are high in the B-complex vitamins, which help calm the nervous system."
+    "Bananas are high in the B-complex vitamins, which help calm the nervous system.",
     "If you warm a lemon before squeezing, it will yield much more juice!",
     "Passion fruits were first grown in Brazil.",
     "Mature lemon trees may prduce around 1,500 fruits per year.",
